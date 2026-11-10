@@ -1,0 +1,22 @@
+{
+  "package": "TekGeo Semantic Layer Mapping Atlas",
+  "version": "1.0",
+  "purpose": "Visual indexing aid for manually assigning source paths to semantic body-part layers.",
+  "important": "This atlas does not claim that path numbers are semantic body-part layers. It preserves source path geometry and order, adding IDs and numbered labels for review.",
+  "M-01": {
+    "source": "image.svg",
+    "path_count": 164,
+    "numbered_reference": "M-01_numbered_atlas.svg",
+    "rendered_atlas": "M-01_numbered_atlas.png",
+    "inventory": "02_Path_Inventory/M-01_path_inventory.csv",
+    "paths_with_rendered_bounds": 164
+  },
+  "F-01": {
+    "source": "image (1).svg",
+    "path_count": 66,
+    "numbered_reference": "F-01_numbered_atlas.svg",
+    "rendered_atlas": "F-01_numbered_atlas.png",
+    "inventory": "02_Path_Inventory/F-01_path_inventory.csv",
+    "paths_with_rendered_bounds": 66
+  }
+}

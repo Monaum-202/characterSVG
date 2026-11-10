@@ -1,0 +1,24 @@
+{
+  "M-01": {
+    "path_count": 164,
+    "isolated_path_tiles": 164,
+    "contact_sheets": [
+      "M-01_path_catalog_01.png",
+      "M-01_path_catalog_02.png",
+      "M-01_path_catalog_03.png",
+      "M-01_path_catalog_04.png",
+      "M-01_path_catalog_05.png",
+      "M-01_path_catalog_06.png",
+      "M-01_path_catalog_07.png"
+    ]
+  },
+  "F-01": {
+    "path_count": 66,
+    "isolated_path_tiles": 66,
+    "contact_sheets": [
+      "F-01_path_catalog_01.png",
+      "F-01_path_catalog_02.png",
+      "F-01_path_catalog_03.png"
+    ]
+  }
+}
